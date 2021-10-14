@@ -1,4 +1,5 @@
 # Disable_Nvidia_LHR
+Patch Nvidia Drivers
 
 ![1](https://github.com/kirk33/Disable_Nvidia_LHR/raw/master/Win_1337_Patch/LHR.jpg)
 
