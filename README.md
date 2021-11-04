@@ -1,6 +1,8 @@
 # Disable_Nvidia_LHR
 Patch Nvidia Drivers
 
+Tested With Zotac 3060 Ti 153 mh/s @Autolykos Algorith with T-Rex miner
+
 ![1](https://github.com/kirk33/Disable_Nvidia_LHR/raw/master/Win_1337_Patch/LHR.jpg)
 
 Step 1: Download one of the supported Nvidia drivers from here, install.
